@@ -1,6 +1,6 @@
 [
   {
-    "name": "otispdq",
+    "name": "Mol Ar",
     "comment": "me",
     "allyCode": "717823667",
     "userIcon": ":flag_sg:",
@@ -32,14 +32,14 @@
     "comment": "",
     "allyCode": "485493162",
     "userIcon": ":poop:",
-    "tagIdOnclimb": "Members",
+    "tagIdOnclimb": "586090022004850688",
   },
   {
     "name": "ya",
     "comment": "",
     "allyCode": "978741489",
     "userIcon": ":poop:",
-    "tagIdOnClimb": "Members"
+    "tagIdOnClimb": "586090022004850688"
   },
   {
     "name": "hupheryspangler",
@@ -61,5 +61,89 @@
     "allyCode": "952239965",
     "userIcon": ":poop:",
     "tagIdOnClimb": "",
+  },
+  {
+    "name": "Miztixcality",
+    "comment": "",
+    "allyCode": "261469636",
+    "userIcon": ":flag_id:",
+    "tagIdOnDrop": "801236641342554122",
+  },
+  {
+    "name": "LordUruk",
+    "comment": "",
+    "allyCode": "936893352",
+    "userIcon": ":flag_ca:",
+    "tagIdOnDrop": "265558546865717249",
+  },
+  {
+    "name": "Yak",
+    "comment": "",
+    "allyCode": "474263561",
+    "userIcon": ":bison:",
+    "tagIdOnClimb": "",
+  },
+  {
+    "name": "Spark",
+    "comment": "",
+    "allyCode": "822376696",
+    "userIcon": ":flag_white:",
+    "tagIdOnClimb": "",
+  },
+  {
+    "name": "awesome579",
+    "comment": "",
+    "allyCode": "612913872",
+    "userIcon": ":flag_white:",
+    "tagIdOnClimb": "",
+  },
+  {
+    "name": "Kibou",
+    "comment": "",
+    "allyCode": "331474349",
+    "userIcon": ":flag_white:",
+    "tagIdOnClimb": "",
+  },
+  {
+    "name": "Icaro",
+    "comment": "",
+    "allyCode": "689195757",
+    "userIcon": ":poop:",
+    "tagIdOnclimb": "",
+  },
+  {
+    "name": "Garm",
+    "comment": "",
+    "allyCode": "467236364",
+    "userIcon": ":poop:",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Faub",
+    "comment": "",
+    "allyCode": "755142216",
+    "userIcon": ":poop:",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "YotamkiPumpki",
+    "comment": "",
+    "allyCode": "586899215",
+    "userIcon": ":poop:",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "GVido",
+    "comment": "",
+    "allyCode": "965617232",
+    "userIcon": ":flag_br:",
+    "tagIdOndrop": "",
+  },
+  {
+    "name": "dm39910",
+    "comment": "",
+    "allyCode": "679356771",
+    "userIcon": ":flag_us:",
+    "tagIdOndrop": "285788539826733056",
   }
 ]
