@@ -32,14 +32,14 @@
     "comment": "",
     "allyCode": "485493162",
     "userIcon": ":poop:",
-    "tagIdOnclimb": "&roleID&Members",
+    "tagIdOnclimb": "&1047870376601976832",
   },
   {
     "name": "ya",
     "comment": "",
     "allyCode": "978741489",
     "userIcon": ":poop:",
-    "tagIdOnClimb": "&roleID&Members"
+    "tagIdOnClimb": "&1047870376601976832"
   },
   {
     "name": "hupheryspangler",
@@ -52,7 +52,7 @@
     "name": "Boles Roor",
     "comment": "",
     "allyCode": "592744485",
-    "userIcon": ":toothbrush:",
+    "userIcon": ":tennis:",
     "tagIdOnDrop": "376359822263582722",
   },
   {
@@ -151,6 +151,13 @@
     "comment": "",
     "allyCode": "232429932",
     "userIcon": ":gear:",
+    "tagIdOndrop": "285788539826733056",
+  },
+  {
+    "name": "av0ga",
+    "comment": "",
+    "allyCode": "445285946",
+    "userIcon": ":avocado:",
     "tagIdOndrop": "285788539826733056",
   }
 ]
