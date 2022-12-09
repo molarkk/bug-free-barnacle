@@ -178,7 +178,14 @@
     "name": "Bollistig",
     "comment": "",
     "allyCode": "184616912",
-    "userIcon": ":poop:",
+    "userIcon": ":flag_de:",
     "tagIdOndrop": "276089945012174849",
-  }
+  },
+  {
+    "name": "シン (shin)",
+    "comment": "",
+    "allyCode": "947975526",
+    "userIcon": ":flag_jp:",
+    "tagIdOndrop": "304246034102485003",
+  }  
 ]
