@@ -56,13 +56,6 @@
     "tagIdOnDrop": "376359822263582722",
   },
   {
-    "name": "Дхаулагири",
-    "comment": "",
-    "allyCode": "952239965",
-    "userIcon": ":pie:",
-    "tagIdOnDrop": "642109420540657721",
-  },
-  {
     "name": "Miztixcality",
     "comment": "",
     "allyCode": "261469636",
@@ -112,23 +105,9 @@
     "tagIdOnDrop": "643045693799530496",
   },
   {
-    "name": "Garm",
-    "comment": "",
-    "allyCode": "467236364",
-    "userIcon": ":poop:",
-    "tagIdOnClimb": ""
-  },
-  {
     "name": "Faub",
     "comment": "",
     "allyCode": "755142216",
-    "userIcon": ":poop:",
-    "tagIdOnClimb": ""
-  },
-  {
-    "name": "YotamkiPumpki",
-    "comment": "",
-    "allyCode": "586899215",
     "userIcon": ":poop:",
     "tagIdOnClimb": ""
   },
@@ -182,13 +161,6 @@
     "tagIdOndrop": "276089945012174849",
   },
   {
-    "name": "シン (shin)",
-    "comment": "",
-    "allyCode": "947975526",
-    "userIcon": ":flag_jp:",
-    "tagIdOndrop": "304246034102485003",
-  }  ,
-  {
     "name": "麒麟 沙漠之鹰伊德瑞",
     "comment": "",
     "allyCode": "164672837",
@@ -213,13 +185,6 @@
     "name": "petra",
     "comment": "",
     "allyCode": "239957427",
-    "userIcon": ":poop:",
-    "tagIdOnclimb": "",
-  },
-  {
-    "name": "boom",
-    "comment": "",
-    "allyCode": "423396335",
     "userIcon": ":poop:",
     "tagIdOnclimb": "",
   },
@@ -257,13 +222,6 @@
     "allyCode": "885211877",
     "userIcon": ":poop:",
     "tagIdOnClimb": "",
-  },
-  {
-    "name": "MasteRrrrr",
-    "comment": "",
-    "allyCode": "759297783",
-    "userIcon": ":poop:",
-    "tagIdOnclimb": "",
   },
   {
     "name": "JuanMeta",
@@ -339,20 +297,6 @@
     "name": "biomassa",
     "comment": "",
     "allyCode": "138268457",
-    "userIcon": ":poop:",
-    "tagIdOnclimb": "",
-  },
-  {
-    "name": "Randy 3",
-    "comment": "",
-    "allyCode": "449478213",
-    "userIcon": ":flag_it:",
-    "tagIdOnDrop": "348861789754097676",
-  },
-  {
-    "name": "Markic",
-    "comment": "",
-    "allyCode": "177853578",
     "userIcon": ":poop:",
     "tagIdOnclimb": "",
   },
